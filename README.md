@@ -7,6 +7,7 @@
   <li> Cool feature :            https://youtu.be/dQw4w9WgXcQ?si=bANA6xW8AFkNr5V2 </li> 
 
 ## 💻 Things im learning:
-![HTML](https://img.shields.io/badge/HTML-orange)
+[![HTML](https://img.shields.io/badge/HTML-orange)](https://img.shields.io/badge/HTML?style=social&logo=%3Ci%20class%3D%22fa-brands%20fa-html5%22%3E%3C%2Fi%3E&logoColor=orange
+)
 
 
