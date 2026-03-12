@@ -13,7 +13,7 @@
 ![C#](https://img.shields.io/badge/CSharp14-purple?style=flat-square&logo=csharp&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-black?style=flat-square&logo=gnubash&logoColor=white)
 
-### 🤔 Wanne learn new code languages?
-##### Check this out :
+## 🤔 Wanne learn new code languages?
+#### Check this out :
 https://www.youtube.com/@BroCodez
 
