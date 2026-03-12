@@ -1,18 +1,12 @@
 # Wassaaa, Im the one and only Frootah
 
-<ul>
-  <li> I'm currently working on :  Learning C#                      </li>
-  <li> Dream :                     Studying computer science in Uni </li>
-  <li> Fun fact :                  Top 100 Padel player in Belgium  </li>
-</ul>
+
+  <li> I'm currently Learning :  C#                                </li>
+  <li> Dream :                   Studying computer science in Uni  </li>
+  <li> Fun fact :                Top 100 Padel player in Belgium   </li>
+
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Frootah)
-
-<!--
-**Frootah/Frootah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
