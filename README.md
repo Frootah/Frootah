@@ -8,9 +8,9 @@
 
 ## 💻 Things im learning:
 
-![HTML5](https://img.shields.io/badge/HTML-orange?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square)
-![C#](https://img.shields.io/badge/CSharp-purple?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square)
+![C#](https://img.shields.io/badge/CSharp14-purple?style=flat-square)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-black?style=flat-square)
 
 
