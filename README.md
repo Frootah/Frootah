@@ -6,4 +6,6 @@
   <li> Fun fact :                Top 100 Padel player in Belgium   </li>
   <li> Cool feature :            https://youtu.be/dQw4w9WgXcQ?si=bANA6xW8AFkNr5V2 </li> 
 
+## 💻 Things im learning:
+
 
