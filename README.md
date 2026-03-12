@@ -1,4 +1,10 @@
-# Hi there 👋
+# Wassaaaaa im the one and only Frootah
+
+<ul>
+  <li>I'm currently working on : </li>
+  <li>Dream : <strong>Studying computer science in Uni<strong> </li>
+  <li>Fun fact : Top 100 Padel player in Belgium </li>
+</ul>
 
 <!--
 **Frootah/Frootah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
