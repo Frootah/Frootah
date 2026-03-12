@@ -7,4 +7,4 @@
   <li> Cool feature :            [Mango](https://youtu.be/dQw4w9WgXcQ) </li>
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Frootah)
+![Profile view counter on GitHub](<https://youtu.be/dQw4w9WgXcQ?si=bANA6xW8AFkNr5V2>)
