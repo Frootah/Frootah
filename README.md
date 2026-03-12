@@ -1,9 +1,9 @@
 # Wassaaa, Im the one and only Frootah
 
 <ul>
-  <li>I'm currently working on : </li>
-  <li>Dream : <strong>Studying computer science in Uni<strong> </li>
-  <li>Fun fact : Top 100 Padel player in Belgium </li>
+  <li>I'm currently working on : **Learning C#** </li>
+  <li>Dream : **Studying computer science in Uni** </li>
+  <li>Fun fact : **Top 100 Padel player in Belgium** </li>
 </ul>
 
 <!--
