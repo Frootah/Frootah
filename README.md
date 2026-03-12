@@ -8,7 +8,7 @@
 
 ## 💻 Things im learning:
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square)
 ![C#](https://img.shields.io/badge/CSharp14-purple?style=flat-square)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-black?style=flat-square)
