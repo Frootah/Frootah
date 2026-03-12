@@ -6,6 +6,8 @@
   <li> Fun fact :                  Top 100 Padel player in Belgium  </li>
 </ul>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Frootah)
+
 <!--
 **Frootah/Frootah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
