@@ -1,4 +1,4 @@
-# Wassaaaaa im the one and only Frootah
+# Wassaaa, Im the one and only Frootah
 
 <ul>
   <li>I'm currently working on : </li>
